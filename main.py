@@ -1,6 +1,5 @@
 import requests
 import json
-import pprint
 
 response = requests.get("http://worldtimeapi.org/api/ip")
 
